@@ -1,5 +1,6 @@
 package boardgame;
 public class Position {
+    //POSIÇÃO DAS PECAS A SEREM INTANCIADAS
     private int row;
     private int column;
 
